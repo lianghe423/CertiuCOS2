@@ -52,10 +52,10 @@ R525:528 Coq.Init.Logic <> :type_scope:x_'='_x not
 R514:519 Coq.ZArith.BinInt <> :Z_scope:x_'<=?'_x not
 R500:511 CertiOS.framework.auxlibs.Integers Int unsigned def
 R529:533 Coq.Init.Datatypes <> false constr
-R606:608 Coq.Init.Logic <> :type_scope:x_'='_x not
-R606:608 Coq.Init.Logic <> :type_scope:x_'='_x not
-R635:638 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
-R635:638 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
+R606:609 Coq.Init.Logic <> :type_scope:x_'='_x not
+R606:609 Coq.Init.Logic <> :type_scope:x_'='_x not
+R635:639 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
+R635:639 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
 R701:717 CertiOS.framework.auxlibs.Integers Byte max_unsigned def
 R701:717 CertiOS.framework.auxlibs.Integers Byte max_unsigned def
 R795:811 CertiOS.framework.auxlibs.Integers Byte max_unsigned def

@@ -14332,13 +14332,13 @@ R155101:155102 CertiOS.framework.proof.rulesoundlib <> c' var
 R155099:155099 CertiOS.framework.proof.rulesoundlib <> m var
 R155096:155097 CertiOS.framework.proof.rulesoundlib <> ke var
 R155094:155094 CertiOS.framework.proof.rulesoundlib <> c var
-R155226:155228 Coq.Init.Logic <> :type_scope:x_'='_x not
-R155226:155228 Coq.Init.Logic <> :type_scope:x_'='_x not
+R155226:155229 Coq.Init.Logic <> :type_scope:x_'='_x not
+R155226:155229 Coq.Init.Logic <> :type_scope:x_'='_x not
 R155250:155252 Coq.Init.Logic <> :type_scope:x_'='_x not
 R155244:155247 Coq.Init.Datatypes <> Some constr
 R155253:155256 Coq.Init.Datatypes <> Some constr
-R155376:155378 Coq.Init.Logic <> :type_scope:x_'='_x not
-R155376:155378 Coq.Init.Logic <> :type_scope:x_'='_x not
+R155376:155379 Coq.Init.Logic <> :type_scope:x_'='_x not
+R155376:155379 Coq.Init.Logic <> :type_scope:x_'='_x not
 R155400:155402 Coq.Init.Logic <> :type_scope:x_'='_x not
 R155394:155397 CertiOS.framework.model.memory <> Tptr constr
 R155403:155406 CertiOS.framework.model.memory <> Tptr constr
@@ -16420,6 +16420,8 @@ R183971:183973 Coq.Init.Logic <> :type_scope:x_'='_x not
 R184010:184023 CertiOS.framework.proof.lmachLib <> load_mem_deter thm
 R183971:183973 Coq.Init.Logic <> :type_scope:x_'='_x not
 R184010:184023 CertiOS.framework.proof.lmachLib <> load_mem_deter thm
+def 181655:181661 <> cjy_and
+R181666:181668 CertiOS.framework.model.memory <> and def
 prf 184597:184616 <> estep_frame_loststep
 R184697:184705 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R184736:184744 Coq.Init.Logic <> :type_scope:x_'->'_x not

@@ -875,65 +875,65 @@ R11085:11088 Coq.Init.Datatypes <> Some constr
 R11091:11094 CertiOS.framework.auxlibs.Integers Make repr def
 R11108:11111 Coq.Init.Datatypes <> None constr
 def 11153:11155 Make cmp
-R11161:11170 CertiOS.framework.auxlibs.Integers <> comparison ind
+R11161:11170 CertiOS.framework.auxlibs.Integers Make comparison ind
 R11179:11181 CertiOS.framework.auxlibs.Integers Make int rec
 R11186:11189 Coq.Init.Datatypes <> bool ind
 R11202:11202 CertiOS.framework.auxlibs.Integers <> c var
-R11213:11215 CertiOS.framework.auxlibs.Integers <> Ceq constr
+R11213:11215 CertiOS.framework.auxlibs.Integers Make Ceq constr
 R11220:11221 CertiOS.framework.auxlibs.Integers Make eq def
 R11225:11225 CertiOS.framework.auxlibs.Integers <> y var
 R11223:11223 CertiOS.framework.auxlibs.Integers <> x var
-R11231:11233 CertiOS.framework.auxlibs.Integers <> Cne constr
+R11231:11233 CertiOS.framework.auxlibs.Integers Make Cne constr
 R11238:11241 Coq.Init.Datatypes <> negb def
 R11244:11245 CertiOS.framework.auxlibs.Integers Make eq def
 R11249:11249 CertiOS.framework.auxlibs.Integers <> y var
 R11247:11247 CertiOS.framework.auxlibs.Integers <> x var
-R11256:11258 CertiOS.framework.auxlibs.Integers <> Clt constr
+R11256:11258 CertiOS.framework.auxlibs.Integers Make Clt constr
 R11263:11264 CertiOS.framework.auxlibs.Integers Make lt def
 R11268:11268 CertiOS.framework.auxlibs.Integers <> y var
 R11266:11266 CertiOS.framework.auxlibs.Integers <> x var
-R11274:11276 CertiOS.framework.auxlibs.Integers <> Cle constr
+R11274:11276 CertiOS.framework.auxlibs.Integers Make Cle constr
 R11281:11284 Coq.Init.Datatypes <> negb def
 R11287:11288 CertiOS.framework.auxlibs.Integers Make lt def
 R11292:11292 CertiOS.framework.auxlibs.Integers <> x var
 R11290:11290 CertiOS.framework.auxlibs.Integers <> y var
-R11299:11301 CertiOS.framework.auxlibs.Integers <> Cgt constr
+R11299:11301 CertiOS.framework.auxlibs.Integers Make Cgt constr
 R11306:11307 CertiOS.framework.auxlibs.Integers Make lt def
 R11311:11311 CertiOS.framework.auxlibs.Integers <> x var
 R11309:11309 CertiOS.framework.auxlibs.Integers <> y var
-R11317:11319 CertiOS.framework.auxlibs.Integers <> Cge constr
+R11317:11319 CertiOS.framework.auxlibs.Integers Make Cge constr
 R11324:11327 Coq.Init.Datatypes <> negb def
 R11330:11331 CertiOS.framework.auxlibs.Integers Make lt def
 R11335:11335 CertiOS.framework.auxlibs.Integers <> y var
 R11333:11333 CertiOS.framework.auxlibs.Integers <> x var
 def 11357:11360 Make cmpu
-R11366:11375 CertiOS.framework.auxlibs.Integers <> comparison ind
+R11366:11375 CertiOS.framework.auxlibs.Integers Make comparison ind
 R11384:11386 CertiOS.framework.auxlibs.Integers Make int rec
 R11391:11394 Coq.Init.Datatypes <> bool ind
 R11407:11407 CertiOS.framework.auxlibs.Integers <> c var
-R11418:11420 CertiOS.framework.auxlibs.Integers <> Ceq constr
+R11418:11420 CertiOS.framework.auxlibs.Integers Make Ceq constr
 R11425:11426 CertiOS.framework.auxlibs.Integers Make eq def
 R11430:11430 CertiOS.framework.auxlibs.Integers <> y var
 R11428:11428 CertiOS.framework.auxlibs.Integers <> x var
-R11436:11438 CertiOS.framework.auxlibs.Integers <> Cne constr
+R11436:11438 CertiOS.framework.auxlibs.Integers Make Cne constr
 R11443:11446 Coq.Init.Datatypes <> negb def
 R11449:11450 CertiOS.framework.auxlibs.Integers Make eq def
 R11454:11454 CertiOS.framework.auxlibs.Integers <> y var
 R11452:11452 CertiOS.framework.auxlibs.Integers <> x var
-R11461:11463 CertiOS.framework.auxlibs.Integers <> Clt constr
+R11461:11463 CertiOS.framework.auxlibs.Integers Make Clt constr
 R11468:11470 CertiOS.framework.auxlibs.Integers Make ltu def
 R11474:11474 CertiOS.framework.auxlibs.Integers <> y var
 R11472:11472 CertiOS.framework.auxlibs.Integers <> x var
-R11480:11482 CertiOS.framework.auxlibs.Integers <> Cle constr
+R11480:11482 CertiOS.framework.auxlibs.Integers Make Cle constr
 R11487:11490 Coq.Init.Datatypes <> negb def
 R11493:11495 CertiOS.framework.auxlibs.Integers Make ltu def
 R11499:11499 CertiOS.framework.auxlibs.Integers <> x var
 R11497:11497 CertiOS.framework.auxlibs.Integers <> y var
-R11506:11508 CertiOS.framework.auxlibs.Integers <> Cgt constr
+R11506:11508 CertiOS.framework.auxlibs.Integers Make Cgt constr
 R11513:11515 CertiOS.framework.auxlibs.Integers Make ltu def
 R11519:11519 CertiOS.framework.auxlibs.Integers <> x var
 R11517:11517 CertiOS.framework.auxlibs.Integers <> y var
-R11525:11527 CertiOS.framework.auxlibs.Integers <> Cge constr
+R11525:11527 CertiOS.framework.auxlibs.Integers Make Cge constr
 R11532:11535 Coq.Init.Datatypes <> negb def
 R11538:11540 CertiOS.framework.auxlibs.Integers Make ltu def
 R11544:11544 CertiOS.framework.auxlibs.Integers <> y var
@@ -10420,7 +10420,7 @@ R101364:101366 Coq.Init.Logic <> :type_scope:x_'='_x not
 R101335:101337 CertiOS.framework.auxlibs.Integers Make cmp def
 R101363:101363 CertiOS.framework.auxlibs.Integers <> y var
 R101361:101361 CertiOS.framework.auxlibs.Integers <> x var
-R101340:101356 CertiOS.framework.auxlibs.Integers <> negate_comparison def
+R101340:101356 CertiOS.framework.auxlibs.Integers Make negate_comparison def
 R101358:101358 CertiOS.framework.auxlibs.Integers <> c var
 R101367:101370 Coq.Init.Datatypes <> negb def
 R101373:101375 CertiOS.framework.auxlibs.Integers Make cmp def
@@ -10442,7 +10442,7 @@ R101523:101525 Coq.Init.Logic <> :type_scope:x_'='_x not
 R101493:101496 CertiOS.framework.auxlibs.Integers Make cmpu def
 R101522:101522 CertiOS.framework.auxlibs.Integers <> y var
 R101520:101520 CertiOS.framework.auxlibs.Integers <> x var
-R101499:101515 CertiOS.framework.auxlibs.Integers <> negate_comparison def
+R101499:101515 CertiOS.framework.auxlibs.Integers Make negate_comparison def
 R101517:101517 CertiOS.framework.auxlibs.Integers <> c var
 R101526:101529 Coq.Init.Datatypes <> negb def
 R101532:101535 CertiOS.framework.auxlibs.Integers Make cmpu def
@@ -10464,7 +10464,7 @@ R101677:101679 Coq.Init.Logic <> :type_scope:x_'='_x not
 R101650:101652 CertiOS.framework.auxlibs.Integers Make cmp def
 R101676:101676 CertiOS.framework.auxlibs.Integers <> y var
 R101674:101674 CertiOS.framework.auxlibs.Integers <> x var
-R101655:101669 CertiOS.framework.auxlibs.Integers <> swap_comparison def
+R101655:101669 CertiOS.framework.auxlibs.Integers Make swap_comparison def
 R101671:101671 CertiOS.framework.auxlibs.Integers <> c var
 R101680:101682 CertiOS.framework.auxlibs.Integers Make cmp def
 R101688:101688 CertiOS.framework.auxlibs.Integers <> x var
@@ -10479,7 +10479,7 @@ R101837:101839 Coq.Init.Logic <> :type_scope:x_'='_x not
 R101809:101812 CertiOS.framework.auxlibs.Integers Make cmpu def
 R101836:101836 CertiOS.framework.auxlibs.Integers <> y var
 R101834:101834 CertiOS.framework.auxlibs.Integers <> x var
-R101815:101829 CertiOS.framework.auxlibs.Integers <> swap_comparison def
+R101815:101829 CertiOS.framework.auxlibs.Integers Make swap_comparison def
 R101831:101831 CertiOS.framework.auxlibs.Integers <> c var
 R101840:101843 CertiOS.framework.auxlibs.Integers Make cmpu def
 R101849:101849 CertiOS.framework.auxlibs.Integers <> x var
@@ -11911,14 +11911,14 @@ R114587:114590 CertiOS.framework.auxlibs.Integers Make <> modtype
 R114592:114602 CertiOS.framework.auxlibs.Integers Wordsize_32 <> modtype
 mod 114580:114582 <> Int
 syndef 114616:114618 <> int
-R114623:114629 CertiOS.framework.auxlibs.Integers <> int rec
+R114623:114629 CertiOS.framework.auxlibs.Integers Int int rec
 syndef 114642:114646 <> int32
-R114651:114657 CertiOS.framework.auxlibs.Integers <> int rec
+R114651:114657 CertiOS.framework.auxlibs.Integers Int int rec
 prf 114668:114695 <> int_wordsize_divides_modulus
 R114700:114706 Coq.ZArith.Znumtheory <> Zdivide syndef
-R114732:114742 CertiOS.framework.auxlibs.Integers <> modulus def
+R114732:114742 CertiOS.framework.auxlibs.Integers Int modulus def
 R114709:114716 Coq.ZArith.BinInt <> Z_of_nat syndef
-R114718:114729 CertiOS.framework.auxlibs.Integers <> wordsize def
+R114718:114729 CertiOS.framework.auxlibs.Integers Int wordsize def
 R114762:114766 Coq.ZArith.Zpower <> two_p def
 R114771:114771 Coq.ZArith.BinInt <> :Z_scope:x_'-'_x not
 R114762:114766 Coq.ZArith.Zpower <> two_p def
@@ -11934,7 +11934,7 @@ R114974:114977 CertiOS.framework.auxlibs.Integers Make <> modtype
 R114979:114989 CertiOS.framework.auxlibs.Integers Wordsize_16 <> modtype
 mod 114965:114969 <> Int16
 syndef 115003:115007 <> int16
-R115012:115020 CertiOS.framework.auxlibs.Integers <> int rec
+R115012:115020 CertiOS.framework.auxlibs.Integers Int16 int rec
 mod 115031:115040 <> Wordsize_8
 def 115056:115063 Wordsize_8 wordsize
 prf 115084:115100 Wordsize_8 wordsize_not_zero
@@ -11946,9 +11946,9 @@ R115197:115200 CertiOS.framework.auxlibs.Integers Make <> modtype
 R115202:115211 CertiOS.framework.auxlibs.Integers Wordsize_8 <> modtype
 mod 115189:115192 <> Byte
 syndef 115225:115228 <> byte
-R115233:115240 CertiOS.framework.auxlibs.Integers <> int rec
+R115233:115240 CertiOS.framework.auxlibs.Integers Byte int rec
 syndef 115253:115256 <> int8
-R115261:115268 CertiOS.framework.auxlibs.Integers <> int rec
+R115261:115268 CertiOS.framework.auxlibs.Integers Byte int rec
 mod 115279:115289 <> Wordsize_64
 def 115305:115312 Wordsize_64 wordsize
 prf 115334:115350 Wordsize_64 wordsize_not_zero
@@ -14507,19 +14507,19 @@ R137531:137538 CertiOS.framework.auxlibs.Coqlib <> zlt_true thm
 R137531:137538 CertiOS.framework.auxlibs.Coqlib <> zlt_true thm
 R137566:137570 CertiOS.framework.auxlibs.Integers Int64 <> mod
 syndef 137583:137587 <> int64
-R137592:137600 CertiOS.framework.auxlibs.Integers <> int rec
-R137618:137625 CertiOS.framework.auxlibs.Integers <> repr def
-R137627:137636 CertiOS.framework.auxlibs.Integers <> repr def
-R137638:137646 CertiOS.framework.auxlibs.Integers <> repr def
-R137692:137699 CertiOS.framework.auxlibs.Integers <> repr def
+R137592:137600 CertiOS.framework.auxlibs.Integers Int64 int rec
+R137618:137625 CertiOS.framework.auxlibs.Integers Int repr def
+R137627:137636 CertiOS.framework.auxlibs.Integers Int64 repr def
+R137638:137646 CertiOS.framework.auxlibs.Integers Byte repr def
+R137692:137699 CertiOS.framework.auxlibs.Integers Int repr def
 not 137682:137682 <> :int_scope:'$'_x
-R137759:137765 CertiOS.framework.auxlibs.Integers <> add def
+R137759:137765 CertiOS.framework.auxlibs.Integers Int add def
 not 137738:137738 <> :int_scope:x_'+ᵢ'_x
-R137829:137835 CertiOS.framework.auxlibs.Integers <> sub def
+R137829:137835 CertiOS.framework.auxlibs.Integers Int sub def
 not 137809:137809 <> :int_scope:x_'-ᵢ'_x
-R137897:137903 CertiOS.framework.auxlibs.Integers <> shl def
+R137897:137903 CertiOS.framework.auxlibs.Integers Int shl def
 not 137879:137879 <> :int_scope:x_'<<ᵢ'_x
-R138004:138011 CertiOS.framework.auxlibs.Integers <> shru def
+R138004:138011 CertiOS.framework.auxlibs.Integers Int shru def
 not 137986:137986 <> :int_scope:x_'>>ᵢ'_x
-R138071:138077 CertiOS.framework.auxlibs.Integers <> and def
+R138071:138077 CertiOS.framework.auxlibs.Integers Int and def
 not 138054:138054 <> :int_scope:x_'&ᵢ'_x

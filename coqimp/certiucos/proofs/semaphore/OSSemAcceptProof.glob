@@ -191,8 +191,8 @@ R7008:7008 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7027:7028 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7030:7030 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7009:7014 CertiOS.framework.model.language <> abssem constr
-R7019:7022 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R7023:7024 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R7019:7023 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R7024:7024 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6991:6991 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R6996:6997 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7006:7006 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
@@ -202,8 +202,8 @@ R6922:6922 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6946:6950 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6939:6942 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6923:6926 CertiOS.framework.logic.assertion <> DSem constr
-R6931:6934 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R6935:6936 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R6931:6935 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R6936:6936 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6943:6945 Coq.Init.Datatypes <> nil constr
 R6734:6759 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6760:6760 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
@@ -219,8 +219,8 @@ R6818:6821 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6810:6815 CertiOS.framework.model.memory <> Vint32 constr
 R6840:6842 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6822:6827 CertiOS.framework.model.memory <> Vint32 constr
-R6832:6835 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R6836:6837 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R6832:6836 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R6837:6837 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6845:6848 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6851:6854 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6859:6862 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
@@ -233,8 +233,8 @@ R7008:7008 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7027:7028 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7030:7030 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7009:7014 CertiOS.framework.model.language <> abssem constr
-R7019:7022 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R7023:7024 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R7019:7023 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R7024:7024 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6991:6991 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R6996:6997 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R7006:7006 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
@@ -244,8 +244,8 @@ R6922:6922 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6946:6950 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6939:6942 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6923:6926 CertiOS.framework.logic.assertion <> DSem constr
-R6931:6934 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R6935:6936 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R6931:6935 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R6936:6936 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6943:6945 Coq.Init.Datatypes <> nil constr
 R6734:6759 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
 R6760:6760 Coq.Init.Datatypes <> :list_scope:x_'++'_x not
@@ -261,8 +261,8 @@ R6818:6821 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6810:6815 CertiOS.framework.model.memory <> Vint32 constr
 R6840:6842 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6822:6827 CertiOS.framework.model.memory <> Vint32 constr
-R6832:6835 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
-R6836:6837 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R6832:6836 CertiOS.framework.auxlibs.Integers <> :int_scope:x_'-ᵢ'_x not
+R6837:6837 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R6845:6848 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6851:6854 Coq.Init.Datatypes <> :list_scope:x_'::'_x not
 R6859:6862 Coq.Init.Datatypes <> :list_scope:x_'::'_x not

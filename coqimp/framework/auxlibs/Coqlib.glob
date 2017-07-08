@@ -73,8 +73,8 @@ R2046:2050 CertiOS.framework.auxlibs.Coqlib <> pairT constr
 R2096:2100 CertiOS.framework.auxlibs.Coqlib <> pairT constr
 R2106:2110 CertiOS.framework.auxlibs.Coqlib <> pairT constr
 not 2069:2069 <> :t_type_scope:'('_x_','_x_','_'..'_','_x_')'
-R2507:2510 Coq.Init.Logic <> :type_scope:x_'->'_x not
-R2507:2510 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2507:2511 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2507:2511 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R2927:2929 Coq.Init.Logic <> :type_scope:x_'='_x not
 R2917:2920 Coq.Init.Datatypes <> andb def
 R2930:2933 Coq.Init.Datatypes <> true constr
@@ -89,8 +89,8 @@ R3002:3004 Coq.Init.Datatypes <> orb def
 R3014:3017 Coq.Init.Datatypes <> true constr
 R3041:3048 Coq.Bool.Bool <> orb_prop thm
 R2958:2966 Coq.Init.Datatypes <> andb_prop thm
-R3383:3386 Coq.Init.Logic <> :type_scope:x_'<>'_x not
-R3383:3386 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R3383:3387 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R3383:3387 Coq.Init.Logic <> :type_scope:x_'<>'_x not
 R3452:3455 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R3452:3455 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R3492:3496 Coq.Init.Logic <> False ind
@@ -122,23 +122,23 @@ R5604:5607 Coq.Init.Logic <> :type_scope:x_'/\'_x not
 R5604:5607 Coq.Init.Logic <> :type_scope:x_'/\'_x not
 R5647:5648 Coq.Init.Logic <> ex ind
 R5647:5648 Coq.Init.Logic <> ex ind
-R6348:6350 Coq.ZArith.BinInt <> :Z_scope:x_'>'_x not
-R6348:6350 Coq.ZArith.BinInt <> :Z_scope:x_'>'_x not
-R6414:6417 Coq.ZArith.BinInt <> :Z_scope:x_'>='_x not
-R6414:6417 Coq.ZArith.BinInt <> :Z_scope:x_'>='_x not
-R6481:6483 Coq.ZArith.BinInt <> :Z_scope:x_'<'_x not
-R6481:6483 Coq.ZArith.BinInt <> :Z_scope:x_'<'_x not
-R6547:6550 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
-R6547:6550 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
-R6614:6616 Coq.Init.Logic <> :type_scope:x_'='_x not
-R6614:6616 Coq.Init.Logic <> :type_scope:x_'='_x not
+R6348:6351 Coq.ZArith.BinInt <> :Z_scope:x_'>'_x not
+R6348:6351 Coq.ZArith.BinInt <> :Z_scope:x_'>'_x not
+R6414:6418 Coq.ZArith.BinInt <> :Z_scope:x_'>='_x not
+R6414:6418 Coq.ZArith.BinInt <> :Z_scope:x_'>='_x not
+R6481:6484 Coq.ZArith.BinInt <> :Z_scope:x_'<'_x not
+R6481:6484 Coq.ZArith.BinInt <> :Z_scope:x_'<'_x not
+R6547:6551 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
+R6547:6551 Coq.ZArith.BinInt <> :Z_scope:x_'<='_x not
+R6614:6617 Coq.Init.Logic <> :type_scope:x_'='_x not
+R6614:6617 Coq.Init.Logic <> :type_scope:x_'='_x not
 R6666:6668 Coq.Init.Datatypes <> nat ind
 R6666:6668 Coq.Init.Datatypes <> nat ind
 R7091:7100 Coq.Init.Logic <> refl_equal syndef
 R7239:7241 Coq.Init.Logic <> :type_scope:x_'='_x not
 R7239:7241 Coq.Init.Logic <> :type_scope:x_'='_x not
-R7272:7275 Coq.Init.Logic <> :type_scope:x_'<>'_x not
-R7272:7275 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R7272:7276 Coq.Init.Logic <> :type_scope:x_'<>'_x not
+R7272:7276 Coq.Init.Logic <> :type_scope:x_'<>'_x not
 R7300:7303 Coq.Init.Logic <> :type_scope:x_'<>'_x not
 prf 7486:7496 <> modusponens
 R7520:7523 Coq.Init.Logic <> :type_scope:x_'->'_x not

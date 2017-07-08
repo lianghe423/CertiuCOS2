@@ -98,13 +98,13 @@ R766:767 CertiOS.tactics.sepauto.sep_join_lemmas <> cd var
 R763:764 CertiOS.tactics.sepauto.sep_join_lemmas <> ab var
 R887:899 CertiOS.tactics.sepauto.sep_join_lemmas <> ex_join2_auto thm
 R887:899 CertiOS.tactics.sepauto.sep_join_lemmas <> ex_join2_auto thm
-R1011:1013 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1011:1014 Coq.Init.Logic <> :type_scope:x_'='_x not
 R1004:1006 CertiOS.framework.auxlibs.Maps <> get meth
-R1011:1013 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1011:1014 Coq.Init.Logic <> :type_scope:x_'='_x not
 R1004:1006 CertiOS.framework.auxlibs.Maps <> get meth
-R1077:1079 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1077:1080 Coq.Init.Logic <> :type_scope:x_'='_x not
 R1070:1072 CertiOS.framework.auxlibs.Maps <> get meth
-R1077:1079 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1077:1080 Coq.Init.Logic <> :type_scope:x_'='_x not
 R1070:1072 CertiOS.framework.auxlibs.Maps <> get meth
 R1151:1151 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R1160:1161 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not

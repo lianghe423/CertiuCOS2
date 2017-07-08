@@ -261,7 +261,7 @@ R2728:2729 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R2731:2732 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2734:2735 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2737:2743 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R2745:2748 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R2745:2749 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2758:2761 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2763:2766 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2775:2777 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
@@ -274,7 +274,7 @@ R2728:2729 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R2731:2732 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2734:2735 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2737:2743 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R2745:2748 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R2745:2749 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2758:2761 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2763:2766 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2775:2777 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
@@ -287,7 +287,7 @@ R2921:2922 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R2924:2925 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2927:2928 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2930:2936 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R2938:2941 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R2938:2942 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2944:2947 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2949:2952 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2954:2956 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
@@ -298,7 +298,7 @@ R2921:2922 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R2924:2925 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2927:2928 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2930:2936 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R2938:2941 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R2938:2942 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2944:2947 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2949:2952 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R2954:2956 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
@@ -570,7 +570,7 @@ R5751:5752 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R5754:5760 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5762:5765 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5774:5777 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R5779:5782 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R5779:5783 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5792:5794 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5767:5772 CertiOS.framework.logic.assertion <> ::x_'//\\'_x not
 R5785:5790 CertiOS.framework.logic.assertion <> ::x_'//\\'_x not
@@ -583,7 +583,7 @@ R5751:5752 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R5754:5760 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5762:5765 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5774:5777 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R5779:5782 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R5779:5783 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5792:5794 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5767:5772 CertiOS.framework.logic.assertion <> ::x_'//\\'_x not
 R5785:5790 CertiOS.framework.logic.assertion <> ::x_'//\\'_x not
@@ -596,7 +596,7 @@ R5944:5945 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R5947:5953 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5955:5958 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5960:5963 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R5965:5968 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R5965:5969 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5971:5973 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5928:5930 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5932:5933 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
@@ -607,7 +607,7 @@ R5944:5945 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x
 R5947:5953 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5955:5958 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5960:5963 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
-R5965:5968 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
+R5965:5969 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R5971:5973 CertiOS.framework.logic.inferules <> ::'{|'_x_','_x_','_x_','_x_','_x_','_x_'|}'_'|-'_x_'{{'_x_'}}'_x_'{{'_x_'}}' not
 R6028:6031 Coq.Init.Datatypes <> None constr
 R6028:6031 Coq.Init.Datatypes <> None constr

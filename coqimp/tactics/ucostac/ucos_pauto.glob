@@ -87,11 +87,11 @@ R2514:2521 CertiOS.framework.auxlibs.Integers Int zero def
 R2608:2610 Coq.Init.Peano <> :nat_scope:x_'<'_x not
 R2577:2588 CertiOS.framework.auxlibs.Integers Int unsigned def
 R2591:2598 CertiOS.framework.auxlibs.Integers Int shru def
-R2603:2604 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R2604:2604 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R2608:2610 Coq.Init.Peano <> :nat_scope:x_'<'_x not
 R2577:2588 CertiOS.framework.auxlibs.Integers Int unsigned def
 R2591:2598 CertiOS.framework.auxlibs.Integers Int shru def
-R2603:2604 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R2604:2604 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R2663:2665 Coq.Init.Peano <> :nat_scope:x_'<'_x not
 R2653:2660 Coq.ZArith.BinInt Z to_nat def
 R2663:2665 Coq.Init.Peano <> :nat_scope:x_'<'_x not

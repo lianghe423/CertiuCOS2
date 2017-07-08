@@ -7,7 +7,8 @@ PWD=`pwd`
 
 COQBIN=$coq85bin
 
-COQPROGNAME=${COQBIN}coqtop
+#COQPROGNAME=${COQBIN}coqtop
+COQPROGNAME=coqtop
 COQPROGARGS="
 	\"-R\" \"$PWD\" \"CertiOS\"
 "

@@ -2201,9 +2201,9 @@ R18614:18615 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> pr var
 R18634:18635 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> wl var
 R18557:18570 CertiOS.framework.logic.assertion <> can_change_aop def
 R18572:18572 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> P var
-R19211:19214 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
+R19211:19215 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R19219:19222 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
-R19211:19214 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
+R19211:19215 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R19219:19222 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R19236:19236 CertiOS.certiucos.code.os_code_defs <> x def
 R19336:19349 CertiOS.framework.logic.inferules <> absinfer_trans constr
@@ -2380,9 +2380,9 @@ R20112:20113 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> pr var
 R20132:20133 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> wl var
 R20048:20061 CertiOS.framework.logic.assertion <> can_change_aop def
 R20063:20063 CertiOS.certiucos.spec.absoprules.mutex_absop_rules <> P var
-R20709:20712 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
+R20709:20713 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R20717:20720 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
-R20709:20712 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
+R20709:20713 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R20717:20720 CertiOS.framework.logic.assertion <> ::'<||'_x_'||>' not
 R20734:20734 CertiOS.certiucos.code.os_code_defs <> x def
 R20800:20813 CertiOS.framework.logic.inferules <> absinfer_trans constr

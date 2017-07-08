@@ -106,7 +106,7 @@ R1033:1036 Coq.Init.Datatypes <> None constr
 R995:998 Coq.Init.Logic <> :type_scope:x_'='_x not
 R975:981 CertiOS.framework.auxlibs.Integers Int ltu def
 R994:994 CertiOS.certiucos.spec.absoprules.msgq_absop_rules <> i var
-R984:985 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R985:985 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R986:991 CertiOS.certiucos.spec.abs_op <> Q_SIZE def
 R999:1003 Coq.Init.Datatypes <> false constr
 R951:964 CertiOS.framework.logic.assertion <> can_change_aop def

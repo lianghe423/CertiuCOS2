@@ -45,18 +45,18 @@ constr 1229:1232 <> Aisr
 constr 1261:1263 <> Acs
 constr 1291:1298 <> Aabsdata
 constr 1333:1335 <> Aop
-R345:345 CertiOS.framework.logic.assertion <> asrt ind
+R346:345 CertiOS.framework.logic.assertion <> asrt ind
 R359:362 CertiOS.framework.logic.assertion <> asrt ind
 R370:373 CertiOS.framework.logic.assertion <> asrt ind
-R375:375 CertiOS.framework.logic.assertion <> asrt ind
-R384:384 CertiOS.framework.logic.assertion <> asrt ind
-R393:393 CertiOS.framework.logic.assertion <> asrt ind
+R376:375 CertiOS.framework.logic.assertion <> asrt ind
+R386:385 CertiOS.framework.logic.assertion <> asrt ind
+R394:393 CertiOS.framework.logic.assertion <> asrt ind
 R407:410 CertiOS.framework.logic.assertion <> asrt ind
 R418:421 CertiOS.framework.logic.assertion <> asrt ind
-R423:423 CertiOS.framework.logic.assertion <> asrt ind
+R424:423 CertiOS.framework.logic.assertion <> asrt ind
 R437:440 CertiOS.framework.logic.assertion <> asrt ind
 R448:451 CertiOS.framework.logic.assertion <> asrt ind
-R453:453 CertiOS.framework.logic.assertion <> asrt ind
+R454:453 CertiOS.framework.logic.assertion <> asrt ind
 R467:470 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R471:474 CertiOS.framework.logic.assertion <> asrt ind
 R463:466 CertiOS.framework.logic.assertion <> asrt ind
@@ -65,7 +65,7 @@ R494:497 CertiOS.framework.logic.assertion <> asrt ind
 R538:539 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R540:543 CertiOS.framework.logic.assertion <> asrt ind
 R536:537 CertiOS.framework.logic.assertion <> ty var
-R545:545 CertiOS.framework.logic.assertion <> asrt ind
+R546:545 CertiOS.framework.logic.assertion <> asrt ind
 R562:565 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R570:573 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R578:581 Coq.Init.Logic <> :type_scope:x_'->'_x not

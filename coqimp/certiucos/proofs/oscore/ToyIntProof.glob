@@ -324,7 +324,7 @@ R4810:4812 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4835:4837 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4843:4849 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4813:4824 CertiOS.framework.model.memory <> get_off_addr def
-R4830:4831 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R4831:4831 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R4838:4842 CertiOS.framework.model.code_notations <> :code_scope:'Int8u' not
 R4855:4860 CertiOS.framework.logic.inferules <> CurTid def
 R4581:4582 CertiOS.framework.logic.assertion <> ::x_'|='_x not
@@ -363,7 +363,7 @@ R4810:4812 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4835:4837 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4843:4849 CertiOS.framework.logic.assertion <> ::'PV'_x_'@'_x_'|-r->'_x not
 R4813:4824 CertiOS.framework.model.memory <> get_off_addr def
-R4830:4831 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
+R4831:4831 CertiOS.framework.auxlibs.Integers <> :int_scope:'$'_x not
 R4838:4842 CertiOS.framework.model.code_notations <> :code_scope:'Int8u' not
 R4855:4860 CertiOS.framework.logic.inferules <> CurTid def
 R5169:5176 CertiOS.certiucos.code.os_code_defs <> OSToyISR def

@@ -92,23 +92,23 @@ R1233:1234 CertiOS.framework.auxlibs.Modules <> b2 var
 R1230:1231 CertiOS.framework.auxlibs.Modules <> b1 var
 mod 1314:1320 <> tidspec
 def 1337:1337 tidspec A
-R1342:1344 CertiOS.framework.auxlibs.Modules <> tid def
+R1342:1344 CertiOS.framework.auxlibs.Modules tidspec tid def
 def 1361:1361 tidspec B
-R1366:1368 CertiOS.framework.auxlibs.Modules <> tid def
+R1366:1368 CertiOS.framework.auxlibs.Modules tidspec tid def
 def 1387:1389 tidspec beq
 R1394:1397 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R1399:1402 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R1403:1406 Coq.Init.Datatypes <> bool ind
 R1398:1398 CertiOS.framework.auxlibs.Modules tidspec A def
 R1393:1393 CertiOS.framework.auxlibs.Modules tidspec A def
-R1411:1417 CertiOS.framework.auxlibs.Modules <> beq_tid def
+R1411:1417 CertiOS.framework.auxlibs.Modules tidspec beq_tid def
 def 1436:1438 tidspec blt
 R1443:1446 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R1448:1451 Coq.Init.Logic <> :type_scope:x_'->'_x not
 R1452:1455 Coq.Init.Datatypes <> bool ind
 R1447:1447 CertiOS.framework.auxlibs.Modules tidspec A def
 R1442:1442 CertiOS.framework.auxlibs.Modules tidspec A def
-R1460:1466 CertiOS.framework.auxlibs.Modules <> blt_tid def
+R1460:1466 CertiOS.framework.auxlibs.Modules tidspec blt_tid def
 prf 1480:1490 tidspec beq_true_eq
 R1508:1508 CertiOS.framework.auxlibs.Modules tidspec A def
 R1530:1533 Coq.Init.Logic <> :type_scope:x_'->'_x not
@@ -122,9 +122,9 @@ R1519:1519 CertiOS.framework.auxlibs.Modules <> a var
 R1526:1529 Coq.Init.Datatypes <> true constr
 R1647:1659 Coq.Bool.Bool <> andb_true_iff thm
 R1647:1659 Coq.Bool.Bool <> andb_true_iff thm
-R1700:1717 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R1700:1717 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R1700:1717 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R1700:1717 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R1700:1717 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R1700:1717 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R1741:1750 Coq.PArith.BinPos Pos eqb_eq thm
 R1741:1750 Coq.PArith.BinPos Pos eqb_eq thm
 R1773:1778 CertiOS.framework.auxlibs.Integers Int eq def
@@ -148,9 +148,9 @@ R1970:1970 CertiOS.framework.auxlibs.Modules <> a var
 R1977:1981 Coq.Init.Datatypes <> false constr
 R2094:2107 Coq.Bool.Bool <> andb_false_iff thm
 R2094:2107 Coq.Bool.Bool <> andb_false_iff thm
-R2147:2164 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R2147:2164 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R2147:2164 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R2147:2164 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R2147:2164 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R2147:2164 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R2181:2191 Coq.PArith.BinPos Pos eqb_neq thm
 R2181:2191 Coq.PArith.BinPos Pos eqb_neq thm
 R2259:2264 CertiOS.framework.auxlibs.Integers Int eq def
@@ -174,9 +174,9 @@ R2466:2466 CertiOS.framework.auxlibs.Modules <> a var
 R2470:2471 CertiOS.framework.auxlibs.Modules <> a' var
 R2583:2595 Coq.Bool.Bool <> andb_true_iff thm
 R2583:2595 Coq.Bool.Bool <> andb_true_iff thm
-R2640:2657 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R2640:2657 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R2640:2657 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R2640:2657 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R2640:2657 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R2640:2657 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R2670:2681 Coq.PArith.BinPos Pos eqb_refl thm
 R2670:2681 Coq.PArith.BinPos Pos eqb_refl thm
 R2711:2721 CertiOS.framework.auxlibs.Integers Int eq_true thm
@@ -206,9 +206,9 @@ R2931:2933 Coq.Init.Logic <> :type_scope:x_'='_x not
 R2941:2943 Coq.Init.Logic <> :type_scope:x_'='_x not
 R3031:3055 Coq.Logic.Classical_Prop <> not_and_or thm
 R3031:3055 Coq.Logic.Classical_Prop <> not_and_or thm
-R3101:3118 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R3101:3118 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R3101:3118 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R3101:3118 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R3101:3118 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R3101:3118 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R3131:3141 Coq.PArith.BinPos Pos eqb_neq thm
 R3131:3141 Coq.PArith.BinPos Pos eqb_neq thm
 R3172:3183 CertiOS.framework.auxlibs.Integers Int eq_false thm
@@ -232,12 +232,12 @@ R3267:3269 CertiOS.framework.auxlibs.Modules tidspec blt def
 R3273:3274 CertiOS.framework.auxlibs.Modules <> a' var
 R3271:3271 CertiOS.framework.auxlibs.Modules <> a var
 R3278:3281 Coq.Init.Datatypes <> true constr
-R3511:3528 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R3511:3528 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R3511:3528 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R3548:3565 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R3548:3565 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R3548:3565 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R3511:3528 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R3511:3528 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R3511:3528 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R3548:3565 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R3548:3565 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R3548:3565 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R3591:3597 Coq.PArith.BinPos Pos ltb def
 R3631:3637 Coq.PArith.BinPos Pos ltb def
 R3672:3678 Coq.PArith.BinPos Pos eqb def
@@ -307,25 +307,25 @@ R4965:4965 CertiOS.framework.auxlibs.Modules <> a var
 R4963:4963 CertiOS.framework.auxlibs.Modules <> a var
 R4969:4973 Coq.Init.Datatypes <> false constr
 R5050:5052 Coq.Init.Logic <> :type_scope:x_'='_x not
-R5039:5045 CertiOS.framework.auxlibs.Modules <> blt_pos def
+R5039:5045 CertiOS.framework.auxlibs.Modules tidspec blt_pos def
 R5053:5057 Coq.Init.Datatypes <> false constr
 R5050:5052 Coq.Init.Logic <> :type_scope:x_'='_x not
-R5039:5045 CertiOS.framework.auxlibs.Modules <> blt_pos def
+R5039:5045 CertiOS.framework.auxlibs.Modules tidspec blt_pos def
 R5053:5057 Coq.Init.Datatypes <> false constr
-R5073:5090 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R5073:5090 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R5073:5090 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
+R5073:5090 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R5073:5090 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R5073:5090 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
 R5103:5116 Coq.PArith.BinPos Pos ltb_irrefl thm
 R5103:5116 Coq.PArith.BinPos Pos ltb_irrefl thm
 R5157:5159 Coq.Init.Logic <> :type_scope:x_'='_x not
-R5146:5152 CertiOS.framework.auxlibs.Modules <> beq_pos def
+R5146:5152 CertiOS.framework.auxlibs.Modules tidspec beq_pos def
 R5160:5163 Coq.Init.Datatypes <> true constr
 R5157:5159 Coq.Init.Logic <> :type_scope:x_'='_x not
-R5146:5152 CertiOS.framework.auxlibs.Modules <> beq_pos def
+R5146:5152 CertiOS.framework.auxlibs.Modules tidspec beq_pos def
 R5160:5163 Coq.Init.Datatypes <> true constr
-R5186:5203 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R5186:5203 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R5186:5203 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R5186:5203 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R5186:5203 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R5186:5203 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R5216:5225 Coq.PArith.BinPos Pos eqb_eq thm
 R5216:5225 Coq.PArith.BinPos Pos eqb_eq thm
 R5275:5277 CertiOS.framework.auxlibs.Coqlib <> zlt def
@@ -351,13 +351,13 @@ R5436:5436 CertiOS.framework.auxlibs.Modules <> b var
 R5434:5434 CertiOS.framework.auxlibs.Modules <> a var
 R5440:5443 Coq.Init.Datatypes <> true constr
 R5498:5500 CertiOS.framework.auxlibs.Modules tidspec blt def
-R5519:5525 CertiOS.framework.auxlibs.Modules <> blt_tid def
-R5573:5590 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R5573:5590 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R5573:5590 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R5610:5627 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R5610:5627 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R5610:5627 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R5519:5525 CertiOS.framework.auxlibs.Modules tidspec blt_tid def
+R5573:5590 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R5573:5590 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R5573:5590 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R5610:5627 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R5610:5627 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R5610:5627 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R5649:5655 Coq.PArith.BinPos Pos ltb def
 R5649:5655 Coq.PArith.BinPos Pos ltb def
 R5721:5730 Coq.PArith.BinPos Pos ltb_lt thm
@@ -445,21 +445,21 @@ R6915:6915 CertiOS.framework.auxlibs.Modules <> a var
 R6913:6913 CertiOS.framework.auxlibs.Modules <> b var
 R6919:6922 Coq.Init.Datatypes <> true constr
 R6961:6963 CertiOS.framework.auxlibs.Modules tidspec blt def
-R6978:6984 CertiOS.framework.auxlibs.Modules <> blt_tid def
+R6978:6984 CertiOS.framework.auxlibs.Modules tidspec blt_tid def
 R6999:7001 CertiOS.framework.auxlibs.Modules tidspec beq def
-R7016:7022 CertiOS.framework.auxlibs.Modules <> beq_tid def
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7083:7100 CertiOS.framework.auxlibs.Modules <> blt_pos_Pos_ltb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
-R7132:7149 CertiOS.framework.auxlibs.Modules <> beq_pos_Pos_eqb_eq thm
+R7016:7022 CertiOS.framework.auxlibs.Modules tidspec beq_tid def
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7083:7100 CertiOS.framework.auxlibs.Modules tidspec blt_pos_Pos_ltb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
+R7132:7149 CertiOS.framework.auxlibs.Modules tidspec beq_pos_Pos_eqb_eq thm
 R7167:7173 Coq.PArith.BinPos Pos ltb def
 R7167:7173 Coq.PArith.BinPos Pos ltb def
 R7245:7251 Coq.PArith.BinPos Pos eqb def
@@ -525,7 +525,7 @@ R8362:8376 Coq.PArith.BinPos Pos lt_eq_cases thm
 R8472:8478 CertiOS.framework.auxlibs.Modules tidspec <> mod
 mod 8490:8498 <> identspec
 def 8514:8514 identspec A
-R8519:8523 CertiOS.framework.auxlibs.Modules <> ident def
+R8519:8523 CertiOS.framework.auxlibs.Modules identspec ident def
 def 8539:8541 identspec beq
 R8546:8553 Coq.ZArith.Zbool <> Zeq_bool def
 def 8569:8571 identspec blt

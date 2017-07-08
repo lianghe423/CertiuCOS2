@@ -57,10 +57,10 @@ R1066:1066 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R1070:1070 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R1072:1073 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
 R1075:1075 Coq.Init.Datatypes <> :core_scope:'('_x_','_x_','_'..'_','_x_')' not
-R1128:1130 Coq.Init.Logic <> :type_scope:x_'='_x not
-R1128:1130 Coq.Init.Logic <> :type_scope:x_'='_x not
-R1173:1175 Coq.Init.Logic <> :type_scope:x_'='_x not
-R1173:1175 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1128:1131 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1128:1131 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1173:1176 Coq.Init.Logic <> :type_scope:x_'='_x not
+R1173:1176 Coq.Init.Logic <> :type_scope:x_'='_x not
 R1203:1206 CertiOS.framework.auxlibs.Maps <> join meth
 R1203:1206 CertiOS.framework.auxlibs.Maps <> join meth
 R1260:1263 CertiOS.framework.auxlibs.Maps <> join meth

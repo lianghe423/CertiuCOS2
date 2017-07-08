@@ -177,8 +177,8 @@ R4159:4165 CertiOS.framework.logic.inferules <> GoodFrm def
 R4159:4165 CertiOS.framework.logic.inferules <> GoodFrm def
 R4202:4208 CertiOS.framework.logic.assertion <> Aexists constr
 R4202:4208 CertiOS.framework.logic.assertion <> Aexists constr
-R4273:4276 CertiOS.framework.logic.assertion <> ::x_'**'_x not
-R4273:4276 CertiOS.framework.logic.assertion <> ::x_'**'_x not
+R4273:4277 CertiOS.framework.logic.assertion <> ::x_'**'_x not
+R4273:4277 CertiOS.framework.logic.assertion <> ::x_'**'_x not
 R4290:4302 CertiOS.tactics.pure.frmaop_sol <> good_frm_star thm
 R4222:4232 CertiOS.tactics.pure.frmaop_sol <> good_frm_ex thm
 prf 4426:4444 <> can_change_aop_star
@@ -476,7 +476,7 @@ R10517:10530 CertiOS.framework.logic.assertion <> can_change_aop def
 R10517:10530 CertiOS.framework.logic.assertion <> can_change_aop def
 R10567:10573 CertiOS.framework.logic.assertion <> Aexists constr
 R10567:10573 CertiOS.framework.logic.assertion <> Aexists constr
-R10652:10655 CertiOS.framework.logic.assertion <> ::x_'**'_x not
-R10652:10655 CertiOS.framework.logic.assertion <> ::x_'**'_x not
+R10652:10656 CertiOS.framework.logic.assertion <> ::x_'**'_x not
+R10652:10656 CertiOS.framework.logic.assertion <> ::x_'**'_x not
 R10670:10688 CertiOS.tactics.pure.frmaop_sol <> can_change_aop_star thm
 R10588:10604 CertiOS.tactics.pure.frmaop_sol <> can_change_aop_ex thm
